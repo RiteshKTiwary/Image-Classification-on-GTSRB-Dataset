@@ -8,4 +8,6 @@ Steps used in this project:
 3. Trained with CNN models (Conv2D -> MaxPool2D -> Dropout -> Flatten -> Dense)
 4. Optimized using Adam and compiled using categorical-crossentropy
 5. Achieved accuracy of .9452
+
+
 At the end, if you provide a path to any image from test dataset, most of the time it will classify correctly for one of those 43 classes.
